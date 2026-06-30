@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="assets/banner.png" alt="DeepFake Detection Banner" width="100%">
 
 # 🕵️‍♂️ DeepFake Image Detection Using Deep Learning
 
